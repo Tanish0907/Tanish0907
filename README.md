@@ -21,6 +21,10 @@
   <a href="mailto:sharmatanish0907@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
   
-# #✨  stats  ✨ 
+✨  stats  ✨ 
 
 [![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanish0907&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
