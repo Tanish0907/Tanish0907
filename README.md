@@ -5,9 +5,8 @@
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </abc>
-</h2>
 
+</h2>
 # Tanish0907
-<section align=center>
 [![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanish0907)](https://github.com/anuraghazra/github-readme-stats)
-</section>
+
