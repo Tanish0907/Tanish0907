@@ -1,4 +1,4 @@
-![MasterHead](https://kruschecompany.com/wp-content/uploads/2021/10/Cover-image-for-blog-post-on-software-developers.png)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
 <h2 align=center> 
 <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
