@@ -23,7 +23,7 @@
   <a href="mailto:sharmatanish0907@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
   
-<center>## ✨  stats  ✨</center> 
+## ✨  stats  ✨
 
 
 
