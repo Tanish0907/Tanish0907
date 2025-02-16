@@ -1,7 +1,7 @@
 <!-- Hero Section with Gradient Background -->
 <div align="center" style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 2rem; border-radius: 1rem; margin-bottom: 2rem;">
   <h1 style="color: white; font-size: 3rem; margin: 0;">Hi, I'm Tanish | <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
-</div></h1><p style="color: white; font-size: 1.5rem; margin: 0;">Software Developer | Vite + React Enthusiast</p>
+</div></h1><p style="color: white; font-size: 1.5rem; margin: 0;">            Software Developer | Vite + React Enthusiast</p>
 </div>
 </div>
 
