@@ -53,9 +53,6 @@
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish0907&layout=compact&theme=transparent" alt="Top Languages" />
 
-  <!-- GitHub Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish0907&theme=transparent" alt="GitHub Streak" />
-
   <!-- Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
 </div>
@@ -63,7 +60,7 @@
 <!-- Coding in Action GIF -->
 ## 👨‍💻 Coding in Action
 <div align="center" style="margin-top: 2rem;">
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6t3u5K/giphy.gif" alt="Coding in Action" width="500" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnM5cDBleHRmOHAxeXg3azNpcjBnNzZubWZvdjNzdzJjMnpjdW5iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding in Action" width="500" />
 </div>
 
 ---
