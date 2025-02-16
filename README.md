@@ -1,15 +1,18 @@
 <!-- Hero Section with Gradient Background -->
 <div align="center" style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 2rem; border-radius: 1rem; margin-bottom: 2rem;">
-  <h1 style="color: white; font-size: 3rem; margin: 0;">Hi, I'm Tanish | <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
-</div></h1><p style="color: white; font-size: 1.5rem; margin: 0;">            Software Developer | Vite + React Enthusiast</p>
-</div>
+  <h1 style="color: white; font-size: 3rem; margin: 0;">
+    Hi, I'm Tanish | <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
+  </h1>
+  <p style="color: white; font-size: 1.5rem; margin: 0;">
+    Software Developer | Vite + React Enthusiast
+  </p>
 </div>
 
 ## 👨‍💻 Coding in Action
 <div align="center" style="margin-top: 2rem;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnM5cDBleHRmOHAxeXg3azNpcjBnNzZubWZvdjNzdzJjMnpjdW5iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding in Action" width="500" />
-  
-<!-- Tech Stack Section -->
+</div>
+
 ## 🚀 Tech Stack & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/PYTHON-323330?style=for-the-badge&logo=python&logoColor=F7DF1E" alt="Python" />
@@ -20,7 +23,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
-<!-- Projects Section -->
 ## 🔥 Featured Projects
 - **[everything_api](https://github.com/Tanish0907/everything_api)**  
   A comprehensive API that unifies multiple endpoints into one seamless service. *(Python)*
@@ -35,7 +37,6 @@
 - **[prisma_clone](https://github.com/Tanish0907/prisma_clone)**  
   A JavaScript project inspired by Prisma, showcasing both UI and functionality replication.
 
-<!-- Contact Section -->
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/tanish-sharma-0191b5266" target="_blank">
@@ -46,23 +47,22 @@
   </a>
 </p>
 
-<!-- GitHub Stats Section -->
 ## ✨ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanish0907&show_icons=true&theme=transparent" alt="Tanish's GitHub Stats" />
 </p>
 
-<!-- More Stats Section -->
 ## 📊 More Stats
 <div align="center">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish0907&layout=compact&theme=transparent" alt="Top Languages" />
 
+  <!-- GitHub Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish0907&theme=transparent" alt="GitHub Streak" />
+
   <!-- Profile View Counter -->
-
-
-<!-- Coding in Action GIF -->
-
+  <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
+</div>
 
 ---
 
