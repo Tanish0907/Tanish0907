@@ -3,12 +3,11 @@
   <h1 style="color: white; font-size: 3rem; margin: 0;">Hi, I'm Tanish | <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
 </div></h1>
   <p style="color: white; font-size: 1.5rem; margin: 0;">Software Developer | Vite + React Enthusiast</p>
+</div>
+</div>
 ## 👨‍💻 Coding in Action
 <div align="center" style="margin-top: 2rem;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnM5cDBleHRmOHAxeXg3azNpcjBnNzZubWZvdjNzdzJjMnpjdW5iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding in Action" width="500" />
-</div>
-</div>
-
 <!-- Tech Stack Section -->
 ## 🚀 Tech Stack & Tools
 <div align="center">
