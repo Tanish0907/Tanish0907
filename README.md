@@ -1,7 +1,12 @@
 <!-- Hero Section with Gradient Background -->
 <div align="center" style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 2rem; border-radius: 1rem; margin-bottom: 2rem;">
-  <h1 style="color: white; font-size: 3rem; margin: 0;">Hi, I'm Tanish</h1>
+  <h1 style="color: white; font-size: 3rem; margin: 0;">Hi, I'm Tanish | <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
+</div></h1>
   <p style="color: white; font-size: 1.5rem; margin: 0;">Software Developer | Vite + React Enthusiast</p>
+## 👨‍💻 Coding in Action
+<div align="center" style="margin-top: 2rem;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnM5cDBleHRmOHAxeXg3azNpcjBnNzZubWZvdjNzdzJjMnpjdW5iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding in Action" width="500" />
+</div>
 </div>
 
 <!-- Tech Stack Section -->
@@ -54,14 +59,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish0907&layout=compact&theme=transparent" alt="Top Languages" />
 
   <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
-</div>
+
 
 <!-- Coding in Action GIF -->
-## 👨‍💻 Coding in Action
-<div align="center" style="margin-top: 2rem;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnM5cDBleHRmOHAxeXg3azNpcjBnNzZubWZvdjNzdzJjMnpjdW5iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding in Action" width="500" />
-</div>
+
 
 ---
 
