@@ -47,22 +47,14 @@
   </a>
 </p>
 
-## ✨ GitHub Stats
+## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanish0907&show_icons=true&theme=transparent" alt="Tanish's GitHub Stats" />
 </p>
 
-## 📊 More Stats
 <div align="center">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish0907&layout=compact&theme=transparent" alt="Top Languages" />
-
-  <!-- GitHub Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish0907&theme=transparent" alt="GitHub Streak" />
-
-  <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
-</div>
 
 ---
 
