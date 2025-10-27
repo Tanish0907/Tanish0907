@@ -4,7 +4,7 @@
     Hi, I'm Tanish | <img src="https://komarev.com/ghpvc/?username=Tanish0907&color=brightgreen" alt="Profile Views" />
   </h1>
   <p style="color: white; font-size: 1.5rem; margin: 0;">
-    Software Developer | Vite + React Enthusiast
+    Software Developer
   </p>
 </div>
 
